@@ -1,0 +1,6 @@
+{
+  "name": "Attention-Guided CNN-RNN Kannada HTR",
+  "description": "High-accuracy Handwritten Text Recognition (HTR) for low-resource Kannada script using an Attention-Guided CNN-RNN neural architecture with spatial-temporal attention maps, stroke decomposition, and Gemini multimodal OCR.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
